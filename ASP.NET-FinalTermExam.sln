@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET-FinalTermExam", "ASP.NET-FinalTermExam\ASP.NET-FinalTermExam.csproj", "{DD0A8572-3C30-42F9-B40C-35D0C9C29050}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD7F9DCC-A988-43EA-A97B-B8626AB82CE4}"
+	ProjectSection(SolutionItems) = preProject
+		1102137126黃映綺_FinalTermExam.doc.docx = 1102137126黃映綺_FinalTermExam.doc.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
